@@ -11,14 +11,13 @@
     "label": "stratomex_server",
     "repo": "phovea/phovea_server",
     "branch": "develop",
-    "additional": [],
-    "data": [
-	  {
+    "additional": [
+      {
         "name": "phovea_security_flask",
         "repo": "phovea/phovea_security_flask",
         "branch": "develop"
       },
-	  {
+      {
         "name": "phovea_data_redis",
         "repo": "phovea/phovea_data_redis",
         "branch": "develop"
@@ -32,6 +31,12 @@
         "name": "phovea_clue",
         "repo": "phovea/phovea_clue",
         "branch": "develop"
+      }
+    ],
+    "data": [
+      {
+        "type": "url",
+        "url": "TCGA_KIRC.h5"
       }
     ]
   }
