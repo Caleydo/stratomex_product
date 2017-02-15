@@ -3,8 +3,7 @@
     "type": "web",
     "label": "stratomex",
     "repo": "Caleydo/stratomex_js",
-    "branch": "master",
-    "additional": []
+    "branch": "provenance_steering"
   },
   {
     "type": "api",
@@ -30,7 +29,7 @@
       {
         "name": "phovea_clue",
         "repo": "phovea/phovea_clue",
-        "branch": "develop"
+        "branch": "provenance_steering"
       },
       {
         "name": "phovea_data_hdf",
